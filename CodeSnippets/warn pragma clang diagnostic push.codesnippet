@@ -11,10 +11,7 @@
 	<key>IDECodeSnippetContents</key>
 	<string>#pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wobjc-protocol-method-implementation"
-
-+ (void)initialize {
-    [self swiftInitialize];
-}
+&lt;#code#&gt;
 
 #pragma clang diagnostic pop</string>
 	<key>IDECodeSnippetIdentifier</key>
